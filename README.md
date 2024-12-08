@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently studying on **SLIIT**
 
-- 🌱 I’m currently learning **C,C++,JAVA**
-
-- 💬 Ask me about **C,C++,JAVA**
+- 💬 Ask me about **C,C++,JAVA,PYTHON,KOTLIN**
 
 - 📫 How to reach me **minoshimadurapperuma@gmail.com**
 
